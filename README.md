@@ -1,6 +1,7 @@
 # goit-markup-hw-01
-GOIT Homework1
-Zadanie domowe
+
+
+GOIT html+css Homework1
 
 Utwórz repozytorium goit-markup-hw-01.
 Wykorzystaj tylko znaczniki HTML do wykonania zadania domowego #1, bez stylów CSS.
